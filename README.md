@@ -33,3 +33,6 @@ graph TD
     G --> H{Continue Simulation?}
     H -- Yes --> B
     H -- No --> I[Stop Simulation]
+---
+📝 Citation (IEEE Format)
+S. Mydeen R, “Intelligent Reactive Energy Management using MATLAB Simulink,” 2024 IEEE International Conference on Smart Technologies and Systems for Next Generation Computing (ICSTSN), Chennai, India, 2024. doi: 10.1109/ICSTSN.2024.10447438
