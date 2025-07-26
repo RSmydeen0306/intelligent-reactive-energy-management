@@ -20,6 +20,9 @@ This project addresses the issue of poor power factor in industrial electrical s
 - **Capacitor Bank Switching**: Increases the power factor to the optimal range.  
 - **Real-Time Feedback**: Continuously monitors the system and adapts capacitor usage.
 ---
+📝 Citation (IEEE Format)
+S. Mydeen R, “Intelligent Reactive Energy Management using MATLAB Simulink,” 2024 IEEE International Conference on Smart Technologies and Systems for Next Generation Computing (ICSTSN), Chennai, India, 2024. doi: 10.1109/ICSTSN.2024.10447438
+---
 📈 Flow Diagram  
 ```mermaid
 graph TD
@@ -34,5 +37,3 @@ graph TD
     H -- Yes --> B
     H -- No --> I[Stop Simulation]
 ---
-📝 Citation (IEEE Format)
-S. Mydeen R, “Intelligent Reactive Energy Management using MATLAB Simulink,” 2024 IEEE International Conference on Smart Technologies and Systems for Next Generation Computing (ICSTSN), Chennai, India, 2024. doi: 10.1109/ICSTSN.2024.10447438
